@@ -1,0 +1,6 @@
+{
+  "name": "HikVision Camera Control",
+  "domain": "hikvision_control",
+  "render_readme": true,
+  "content_in_root": false
+}

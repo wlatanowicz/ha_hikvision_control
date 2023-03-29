@@ -1,0 +1,18 @@
+{
+  "domain": "hikvision_control",
+  "name": "HikVision Control",
+  "codeowners": [
+    "@wlatanowicz"
+  ],
+  "config_flow": true,
+  "dependencies": [],
+  "documentation": "https://www.home-assistant.io/integrations/hikvision_control",
+  "homekit": {},
+  "iot_class": "local_polling",
+  "requirements": [
+    "hikvisionapi==0.3.2"
+  ],
+  "ssdp": [],
+  "version": "0.1.0",
+  "zeroconf": []
+}
